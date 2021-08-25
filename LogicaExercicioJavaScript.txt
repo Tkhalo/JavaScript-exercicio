@@ -1,0 +1,14 @@
+1. Cadastrar as peças - Criando um array/uma lista
+
+2. Peso superior a 100g para a mesma ser cadastrada --> peça >= 100g
+
+3. 10 unidades = Capacidade máxima de peças cadastradas
+
+4. Verificar se a peça possui um nome com mais de 3 caracteres, 
+se sim:
+	permitir o cadastro 
+Se não:
+	se a peça estiver como vazia:
+		 notificar o usuário.
+Se não:
+	cadastro negado
